@@ -8,6 +8,10 @@ header{
 height: 75%;
 width: 100%;
 }
+
+#navbarNav{
+    padding: 1% 65%;
+}
 .btn-warning-custom{
     background-color: #E76F51;
     border: none;
